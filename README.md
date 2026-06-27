@@ -11,17 +11,10 @@
   </a>
 </p>
 
-<img align="right" width=300px alt="Unicorn" src="https://media.tenor.com/X6oLkn9sBewAAAAi/sparklepandalana-penguin.gif" />
-
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre pedrito edits***
-
-Larpppppp
-- Larppppp
-- Larpppppppp
-- - Larpppppppp
-  - Larppppppppp
 
 <h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Habilidades</h2>
+<br>
+<img align="right" width=300px alt="Unicorn" src="https://media.tenor.com/X6oLkn9sBewAAAAi/sparklepandalana-penguin.gif" />
 
 <p>Lenguajes</p>
 <span> 
