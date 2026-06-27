@@ -44,3 +44,8 @@ Larpppppp
   <img src="https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
 </span>  
+
+
+<p align="center">
+  <img src="https://github.com/MedinaPedroDev/MedinaPedroDev/raw/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
+</p>
